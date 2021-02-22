@@ -19,5 +19,5 @@ Photo carousel micro service and modal for a  property listing application
 ![CircleCI](https://img.shields.io/badge/-CircleCI-black?style=plastic-square&logo=CircleCI)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=plastic-square&logo=Jest&logoColor=C21325)
 
-
+*Forked from thefabfour organization to present in a stand-alone repo*
 
