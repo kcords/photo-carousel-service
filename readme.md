@@ -1,7 +1,7 @@
 ![Photo Service Demo](demo.gif)
 
 ### Description
-Photo carousel micro service and modal for a  property listing application
+This is the photo carousel micro service and modal for a property listing application. This service was created by me for use within [the larger propertly listing application (https://github.com/thefabfour)](https://github.com/thefabfour).
 
 ### Setup
 1. Compile bundle.js: `npm run build-dev`
