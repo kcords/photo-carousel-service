@@ -1,7 +1,7 @@
 ![Photo Service Demo](demo.gif)
 
 ### Description
-This is the photo carousel micro service and modal for a property listing application. This service was created by me for use within [the larger propertly listing application (https://github.com/thefabfour)](https://github.com/thefabfour).
+This is the photo carousel micro service and modal for a property listing application. This service was created by me for use within the larger propertly listing application (link below).
 
 ### Setup
 1. Compile bundle.js: `npm run build-dev`
@@ -19,5 +19,5 @@ This is the photo carousel micro service and modal for a property listing applic
 ![CircleCI](https://img.shields.io/badge/-CircleCI-black?style=plastic-square&logo=CircleCI)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=plastic-square&logo=Jest&logoColor=C21325)
 
-*Forked from thefabfour organization to present in a stand-alone repo*
+*Forked from [thefabfour organization](https://github.com/thefabfour) to present in a stand-alone repo*
 
