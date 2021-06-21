@@ -3,6 +3,8 @@
 ### Description
 This is the photo carousel micro service and modal for a property listing application. This service was created by me for use within the larger propertly listing application (link below).
 
+The frontend is build using react functional components (with hooks) with visual styling through CSS. The Backend is built using Express with a MongoDB database. The service was containerized using Docker and deployed to AWS.
+
 ### Setup
 1. Compile bundle.js: `npm run build-dev`
 2. Seed the database: `npm run seed`
